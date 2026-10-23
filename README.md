@@ -16,6 +16,7 @@ The tracking workflow uses MATLAB Live Scripts (`.mlx`) together with the Python
 └── Segmentation/
     ├── Omni_batch.py
     └── Omni_batch.ipynb
+├── helper functions/
 ```
 
 | File | Purpose |
